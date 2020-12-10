@@ -21,3 +21,7 @@ Single webpage with Bootstrap.
 ## The online version
 
 In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Framework_Bootstrap_Exercise-2/)
+
+***
+### Alina's Live version: 
+https://alina-de.github.io/Exercise_Bootstrap_Landing_Page/
